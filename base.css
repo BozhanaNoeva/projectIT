@@ -37,8 +37,8 @@ h3 {
 }
 #artistName{ 
  color: #FCF6F5FF;  
-twxt-align: center;   
-  
+text-align: center;   
+  font-size: 100px;
     
     font-family: inherit;
 
